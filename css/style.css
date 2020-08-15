@@ -1,0 +1,77 @@
+body{
+    margin: 0;
+    padding: 0;
+   background-image: url(../imges/event.jpg);
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: white;
+
+}
+.boss{
+    background: rgba(255,255,255,.3);
+    margin: 0 300px ;
+    padding: 35px;
+   color: white;
+    width: 700px;
+   
+}
+
+ul li {
+    list-style: none;
+}
+.info{
+    display: inline-block;
+    width: 200px;
+        height: 15px;
+    margin-bottom: 50px;*/
+   
+/*   margin-right: 100px*/
+}
+.input{
+    display: inline-block;
+    background-color: rgba(255,255,255,.3);
+    border: 0 ;
+/*    color: white;*/
+    height: 40px;
+     width: 400px; 
+}
+.s1{
+    border: 0;
+    height: 40px;
+    margin: 0;
+      width: 196px ;
+    color: white ;
+     background-color: rgba(255,255,255,.3);
+}
+select {
+     display: inline-block;
+    background-color: rgba(255,255,255,.3);
+    border: 0 ;
+    color: white;
+    height: 40px;
+     width: 200px;
+}
+input[type=radio] :checked {
+      border: 2px solid #cd31c1;  
+}
+.btn{
+    display: inline-block;
+    width: 120px;
+        height: 40px;
+    border-radius: 2px;
+    color: white;
+    margin-left: 20px;
+    border: 0 ;
+ background-color: deeppink ;
+}
+p{
+    color: white;
+    margin-left: 350px;
+    
+}
+a{
+    text-decoration: none;
+    color: deeppink;
+}
